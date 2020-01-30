@@ -1,0 +1,30 @@
+E:\FTT\ALG\EX\ex1\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.exe.config
+E:\FTT\ALG\EX\ex1\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.exe
+E:\FTT\ALG\EX\ex1\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.pdb
+E:\FTT\ALG\EX\ex1\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csprojAssemblyReference.cache
+E:\FTT\ALG\EX\ex1\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.Form1.resources
+E:\FTT\ALG\EX\ex1\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.Properties.Resources.resources
+E:\FTT\ALG\EX\ex1\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.GenerateResource.cache
+E:\FTT\ALG\EX\ex1\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.CoreCompileInputs.cache
+E:\FTT\ALG\EX\ex1\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.exe
+E:\FTT\ALG\EX\ex1\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.pdb
+E:\FTT\ALG\ex2 WFA\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.exe.config
+E:\FTT\ALG\ex2 WFA\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.exe
+E:\FTT\ALG\ex2 WFA\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.pdb
+E:\FTT\ALG\ex2 WFA\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csprojAssemblyReference.cache
+E:\FTT\ALG\ex2 WFA\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.Form1.resources
+E:\FTT\ALG\ex2 WFA\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.Properties.Resources.resources
+E:\FTT\ALG\ex2 WFA\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.GenerateResource.cache
+E:\FTT\ALG\ex2 WFA\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.CoreCompileInputs.cache
+E:\FTT\ALG\ex2 WFA\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.exe
+E:\FTT\ALG\ex2 WFA\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.pdb
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.exe.config
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.exe
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Jogo da velha\Jogo da velha\bin\Debug\Jogo da velha.pdb
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csprojAssemblyReference.cache
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.Form1.resources
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Jogo da velha\Jogo da velha\obj\Debug\Jogo_da_velha.Properties.Resources.resources
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.GenerateResource.cache
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.exe
+C:\Users\Pedro\Dropbox\FTT\ALGORITMOS II\ex2 WFA\Jogo da velha\Jogo da velha\obj\Debug\Jogo da velha.pdb
